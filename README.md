@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MistSnow
 - 👀 I’m interested in math and programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
